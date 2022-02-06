@@ -1,2 +1,2 @@
-<?php echo "sup bitch" 
-echo "Yeah you" ?>
+<?php echo "sup bitch" ?>
+<?php echo "Yeah you" ?>
